@@ -1,0 +1,16 @@
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\bin\Debug\net10.0-windows\GestioneCavalli.exe
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\bin\Debug\net10.0-windows\GestioneCavalli.deps.json
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\bin\Debug\net10.0-windows\GestioneCavalli.runtimeconfig.json
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\bin\Debug\net10.0-windows\GestioneCavalli.dll
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\bin\Debug\net10.0-windows\GestioneCavalli.pdb
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.Form1.resources
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.csproj.GenerateResource.cache
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.AssemblyInfoInputs.cache
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.AssemblyInfo.cs
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.csproj.CoreCompileInputs.cache
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.dll
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\refint\GestioneCavalli.dll
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.pdb
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\GestioneCavalli.genruntimeconfig.cache
+C:\Marco\Informatica\C#\GestioneCavalli\GestioneCavalli\obj\Debug\net10.0-windows\ref\GestioneCavalli.dll
